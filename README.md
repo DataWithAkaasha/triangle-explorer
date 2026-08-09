@@ -6,6 +6,32 @@ Instead of simply memorizing the names of triangles, users can drag the vertices
 
 The tool can be used by anyone who wants to learn, revise, or test their understanding of triangles.
 
+## 📑 Table of Contents
+
+- [How to Use](#-how-to-use)
+- [What Can You Explore?](#-what-can-you-explore)
+- [Learn Through Real-World Examples](#-learn-through-real-world-examples)
+- [Challenge Yourself](#-challenge-yourself)
+- [Test Your Understanding](#-test-your-understanding)
+- [Who Is It For?](#-who-is-it-for)
+- [Built With](#️-built-with)
+- [Current Limitations](#-current-limitations)
+- [Future Improvements](#-future-improvements)
+- [Why I Built It](#-why-i-built-it)
+- [Created During AI Training](#-created-during-ai-training)
+- [Creator](#-creator)
+
+## 🖱️ How to Use
+
+Triangle Explorer is designed to be explored by **dragging the three vertices (corners) of the triangle**.
+
+1. **Drag any corner** of the triangle to change its shape.
+2. As you move a vertex, the **side lengths and angles update in real time**.
+3. The triangle's **colour and visual appearance change** according to its current classification.
+4. The **information displayed in the sidebar updates automatically**.
+5. The **real-world examples also change** to match the triangle's current type.
+6. Experiment with different shapes and observe how the classification changes.
+
 ## ✨ What Can You Explore?
 
 Triangle Explorer classifies triangles in two ways:
@@ -22,7 +48,7 @@ Triangle Explorer classifies triangles in two ways:
 - **Right**
 - **Obtuse**
 
-Every triangle has both a side-based classification and an angle-based classification. By experimenting with the shape, users can see how these classifications relate to each other.
+
 
 ## 🌍 Learn Through Real-World Examples
 
